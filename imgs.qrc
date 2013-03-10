@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/bold.ico</file>
+        <file>imgs/clear.ico</file>
+        <file>imgs/color.ico</file>
+        <file>imgs/italic.ico</file>
+        <file>imgs/save.ico</file>
+        <file>imgs/send.ico</file>
+        <file>imgs/underline.ico</file>
+    </qresource>
+</RCC>
